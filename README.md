@@ -19,7 +19,7 @@ basic
 
  - Unzip the zip file in `app/code/Market`
  - Enable the module by running `php bin/magento module:enable Market_General`
- - Apply database updates by running `php bin/magento setup:upgrade`\*
+ - Apply database updates by running `php bin/magento setup:upgrade:dev-main`\*
  - Flush the cache by running `php bin/magento cache:flush`
 
 ### Type 2: Composer
