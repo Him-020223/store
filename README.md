@@ -37,7 +37,7 @@ basic
 
 ## Configuration
 
-
+None
 
 
 ## Specifications
