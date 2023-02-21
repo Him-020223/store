@@ -12,6 +12,7 @@
 ## Main Functionalities
    - Basic Functionality
    - Basic Functionality 2
+   - OTP Based API
 
 ## Installation
 \* = in production please use the `--keep-generated` option
