@@ -11,6 +11,7 @@
 
 ## Main Functionalities
    - Basic Functionality
+   - Basic Functionality 2
 
 ## Installation
 \* = in production please use the `--keep-generated` option
