@@ -13,6 +13,7 @@
    - Basic Functionality
    - Basic Functionality 2
    - OTP Based API
+   - Release 1.0.0
 
 ## Installation
 \* = in production please use the `--keep-generated` option
