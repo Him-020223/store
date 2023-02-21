@@ -10,7 +10,7 @@
 
 
 ## Main Functionalities
-basic
+   - Basic Functionality
 
 ## Installation
 \* = in production please use the `--keep-generated` option
